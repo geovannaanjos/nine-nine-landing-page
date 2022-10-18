@@ -1,5 +1,5 @@
 # nine-nine-landing-page
-## Landing Page - totalmente responsiva, com elementos de flexbox. 
+## Landing Page sobre agencia de turismos 
 
 Nine-nine turismos
 
